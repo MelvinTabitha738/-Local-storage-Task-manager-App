@@ -39,9 +39,6 @@ Open the project folder
 cd task-manager-app
 Open index.html in your browser
 
-🖼️ Screenshot
-(You can add a screenshot of your app here)
-Save a screenshot as screenshot.png and add this line below:
 
 🙋🏽‍♂️ Author
 Melvin Tabitha
